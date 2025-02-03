@@ -1,33 +1,55 @@
-<h1>👋 Hi, I'm Prachi Kedari</h1>
+<h1>Hi there, I'm Prachi Kedari! 👋</h1>
 
-<p>Welcome to my GitHub profile! I’m a data scientist with a background in commerce and experience in using data to drive insights and improve decision-making. My work focuses on data analysis, predictive modeling, and data visualization, using tools like Python, SQL, and Excel.</p>
+  <p>Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. Here's a little bit about me:</p>
 
-<h2>🔍 About Me</h2>
-<ul>
-<li>💼 Currently interning as a data analyst, working on sales data analysis and reporting for a retail chain</li>
-<li>🛠️ Proficient in tools and languages: Python, MySQL, Excel, PowerBI, Machine Learning</li>
-<li>🌱 Continuously learning and exploring new data science techniques and technologies</li>
-</ul>
+  <h2>🔭 What I'm Currently Working On:</h2>
+  <ul>
+    <li><strong>Data Science Projects:</strong> Developing machine learning models and analyzing large datasets to uncover insights.</li>
+    <li><strong>Open Source Contributions:</strong> Contributing to open source data science projects and collaborating with the community.</li>
+    <li><strong>Learning:</strong> Continuously expanding my knowledge in advanced machine learning techniques and big data technologies.</li>
+  </ul>
 
-<h2>🛠️ Skills</h2>
-<ul>
-<li>Data Analysis: Expertise in cleaning, processing, and analyzing data to uncover meaningful insights</li>
-<li>Machine Learning: Proficient in building predictive models for classification and forecasting</li>
-<li>Data Visualization: Skilled in creating intuitive and informative visualizations using Python libraries and Excel</li>
-<li>SQL: Experienced in querying and manipulating data for reporting and analysis</li>
-</ul>
+  <h2>🌱 What I'm Learning:</h2>
+  <ul>
+    <li><strong>Deep Learning with TensorFlow and PyTorch</strong></li>
+    <li><strong>Big Data Technologies like Apache Spark and Hadoop</strong></li>
+    <li><strong>Natural Language Processing (NLP)</strong></li>
+    <li><strong>Advanced Statistical Methods</strong></li>
+  </ul>
 
-<h2>📂 Projects</h2>
+  <h2>💬 Ask Me About:</h2>
+  <ul>
+    <li>MySQL</li>
+    <li>PowerBI and Tableau</li>
+    <li>Advance Excel</li>
+    <li>Data Analysis and Visualization (Pandas, Matplotlib, Seaborn)</li>
+    <li>Machine Learning (Scikit-Learn)</li>
+    <li>Statistical Modeling</li>
+    <li>Big Data Technologies (Spark, Hadoop)</li>
+    <li>Data Engineering</li>
+  </ul>
 
-Here are some of the projects I've worked on:
-<ul>
-<li>Sales Forecasting: Developed predictive models using Python and SQL to forecast sales, identify trends, and optimize strategies for retail businesses.<li>
-<a href="URL">https://github.com/prachikedari15/Trendmart-Dashboard.git</a>
-<ul/>
-  
-<h2>📫 Connect with Me</h2>
+  <h2>📫 How to Reach Me:</h2>
+  <p><strong>Email:</strong> <a href="kedariprachi1504@gmail.com"></a></p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/prachi-kedari /" target="_blank">Prachi Kedari</a></p>
 
-LinkedIn:<a href="URL">linkedin.com/in/prachi-kedari-043a56307</a>
-Email:<a href="URL">kedariprachi1504@gmail.com</a>
+  <h2>⚡ Fun Fact:</h2>
+  <p>I enjoy playing with data and uncovering hidden patterns. In my free time, I love hiking and exploring nature.</p>
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. I’m always open to discussing data science projects, collaboration, and learning opportunities!
+  <h2>🛠 Languages and Tools:</h2>
+  <p>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/-Matplotlib-009688?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  </p>
+
+  <h2>📈 Highlight Projects:</h2>
+  <ul>
+    <li><a href="https://github.com/prachikedari15/Trendmart-Dashboard">Project 1</li>
+    <li><a href="https://github.com/prachikedari15/Super-store-profit-Dashboard">Project 2</li>
+    <li><a href="https://github.com/prachikedari15/Airbnb-Listings-Analysis-">Project 3</li>
+
+  <p>Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.</p>
+</body>
+</html>
