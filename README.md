@@ -30,13 +30,13 @@
   </ul>
 
   <h2>📫 How to Reach Me:</h2>
-  <p><strong>Email:</strong> <a href="kedariprachi1504@gmail.com"></a></p>
-  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/prachi-kedari /" target="_blank">Prachi Kedari</a></p>
+  <p><strong>Email:</strong> <a href="mailto:kedariprachi1504@gmail.com">kedariprachi1504@example.com</a></p>
+  <p><strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/prachi-kedari" target="_blank">Prachi Kedari</a></p>
 
   <h2>⚡ Fun Fact:</h2>
   <p>I enjoy playing with data and uncovering hidden patterns. In my free time, I love hiking and exploring nature.</p>
 
-  <h2>🛠 Languages and Tools:</h2>
+   <h2>🛠 Languages and Tools:</h2>
   <p>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL">
