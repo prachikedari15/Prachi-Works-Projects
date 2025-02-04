@@ -46,9 +46,11 @@
 
   <h2>📈 Highlight Projects:</h2>
   <ul>
-    <li><a href="https://github.com/prachikedari15/Trendmart-Dashboard">Project 1</li>
-    <li><a href="https://github.com/prachikedari15/Super-store-profit-Dashboard">Project 2</li>
-    <li><a href="https://github.com/prachikedari15/Airbnb-Listings-Analysis-">Project 3</li>
+   <li><a href="https://github.com/prachikedari15/Trendmart-Dashboard">Project 1: Sports-Analytics-Using-SQL</a></li>
+    <li><a href="https://github.com/Dhiraj-patil-work/Airbnb-Listings-SQL-Project.git">Project 2: Airbnb Listings SQL Project</a>: This project contains SQL queries for analyzing Airbnb listings data.</li>
+    <li><a href="https://github.com/Dhiraj-patil-work/HR-Analytics_Dashboard.git">Project 3: HR Analytics Project</a>: The primary objective of this project is to assist an organization in improving employee performance and enhancing employee retention by reducing attrition rates.</li>
+    <li><a href="https://github.com/Dhiraj-patil-work/sentiment-analysis">Project 4: Sentiment Analysis</a>: Built a sentiment analysis model to analyze customer reviews.</li>
+  </ul>
 
   <p>Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.</p>
 </body>
