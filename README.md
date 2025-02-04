@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Prachi Kedari! 👋</h1>
 
-  <p>Welcome to my GitHub profile! I'm a passionate aspiring Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. Here's a little bit about me:</p>
+  <p>Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong background in data analysis, machine learning, and statistical modeling. Here's a little bit about me:</p>
 
   <h2>🔭 What I'm Currently Working On:</h2>
   <ul>
@@ -46,10 +46,9 @@
 
   <h2>📈 Highlight Projects:</h2>
   <ul>
-   <li><a href="https://github.com/prachikedari15/Trendmart-Dashboard">Project 1: Sports-Analytics-Using-SQL</a></li>
-    <li><a href="https://github.com/Dhiraj-patil-work/Airbnb-Listings-SQL-Project.git">Project 2: Airbnb Listings SQL Project</a>: This project contains SQL queries for analyzing Airbnb listings data.</li>
-    <li><a href="https://github.com/Dhiraj-patil-work/HR-Analytics_Dashboard.git">Project 3: HR Analytics Project</a>: The primary objective of this project is to assist an organization in improving employee performance and enhancing employee retention by reducing attrition rates.</li>
-    <li><a href="https://github.com/Dhiraj-patil-work/sentiment-analysis">Project 4: Sentiment Analysis</a>: Built a sentiment analysis model to analyze customer reviews.</li>
+   <li><a href="https://github.com/prachikedari15/Trendmart-Dashboard">Project 1: Trendmart Dashboard</a></li>
+    <li><a href="https://github.com/prachikedari15/Super-store-profit-Dashboard">Project 2: Super store Profit </a>: The aim of this project is to analyze and determine the store's profitability..</li>
+    <li><a href="https://github.com/prachikedari15/Airbnb-Listings-Analysis-">Project 3: Airbnb Listings Analysis </a>: his project contains SQL queries for analyzing Airbnb listings data.</li>
   </ul>
 
   <p>Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.</p>
