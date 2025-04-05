@@ -49,21 +49,18 @@ I'm a passionate <strong>Clinical Data Scientist</strong> with a strong backgrou
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlin-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine Learning-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
 <hr />
 
 <h2>📈 Highlight Projects</h2>
 <ul>
-  <li>🔬 <strong>Adverse Events Analysis</strong>: Identified safety signals in clinical trials using Python & biostats.</li>
-  <li>📊 <strong>Pharma Sales Dashboard</strong>: Created a KPI dashboard for a pharma company using Power BI.</li>
-  <li>🏥 <strong>EHR Insights Project</strong>: Analyzed and visualized patient history using de-identified EHR data.</li>
-  <li>🏠 <strong>Airbnb Listings (Legacy)</strong>: SQL analysis of Airbnb dataset for price and location insights.</li>
+  <li>🔬 <strong>Patients Details Summary Dashboard.</li>
 </ul>
 
 <hr />
