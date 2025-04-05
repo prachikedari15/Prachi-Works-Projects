@@ -66,10 +66,19 @@ I'm a passionate <strong>Clinical Data Scientist</strong> with a strong backgrou
 <hr />
 
 <h2>📫 Let's Connect!</h2>
-<ul>
-  <li>📧 Email: <a href="mailto:kedariprachi1504@example.com">kedariprachi1504@example.com</a></li>
-  <li>💼 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn: Prachi Kedari</a></li>
-</ul>
+<h2>
+  🩺 Patients Details Summary Dashboard 
+  <a href="https://your-link-here" target="_blank" style="font-size: 16px; margin-left: 10px;">
+    🔗 View Project
+  </a>
+</h2>
+
+<p>
+Designed an interactive dashboard to analyze and visualize patient details, including demographics, clinical metrics, treatment history, and health outcomes — enabling data-driven decision-making in healthcare.
+</p>
+
+<p><strong>🛠 Tools:</strong> Power BI</p>
+
 
 <hr />
 
