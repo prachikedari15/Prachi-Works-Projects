@@ -69,6 +69,18 @@ I'm a passionate <strong>Clinical Data Scientist</strong> with a strong backgrou
 <ul>
   <li>📧 Email: kedariprachi1504@example.com</li>
   <li>💼 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn: Prachi Kedari</a></li>
-</
+</ul>
+
+<hr />
+
+<h2>⚡ Fun Fact</h2>
+<p>
+I love turning raw clinical data into meaningful insights that can <strong>save lives</strong> or improve patient care. When I’m not analyzing data, you’ll find me hiking or exploring nature 🌿.
+</p>
+
+<hr />
+
+<p><strong>⭐ Thanks for stopping by! Feel free to connect, collaborate, or just say hi!</strong></p>
+
 
 
