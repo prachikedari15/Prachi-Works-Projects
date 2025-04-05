@@ -81,18 +81,12 @@ Designed an interactive dashboard to analyze and visualize patient details, incl
 
 <h2>📫 Let's Connect!</h2>
 <h2>
-  🩺 Patients Details Summary Dashboard 
-  <a href="https://github.com/prachikedari15/Patients-Details-Summary-Dashboard" target="_blank" style="font-size: 16px; margin-left: 10px;">
-    🔗 View Project
-  </a>
+  <ul>
+  <li>📧 Email: <a href="mailto:kedariprachi1504@example.com">kedariprachi1504@example.com</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn: Prachi Kedari</a></li>
+</ul>
+
 </h2>
-
-<p>
-Designed an interactive dashboard to analyze and visualize patient details, including demographics, clinical metrics, treatment history, and health outcomes — enabling data-driven decision-making in healthcare.
-</p>
-
-<p><strong>🛠 Tools:</strong> Power BI</p>
-
 
 <hr />
 
