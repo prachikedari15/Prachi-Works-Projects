@@ -1,70 +1,77 @@
-<h1 align="center">Hi there, I'm Prachi Kedari! 👋</h1>
+<h1>Hi there, I'm Prachi Kedari! 👋</h1>
 
-<p align="center">🎓 Clinical Data Scientist | 💻 Data Analyst | 📊 Biostatistics Enthusiast</p>
+<p>🎓 Clinical Data Scientist | 💻 Data Analyst | 📊 Biostatistics Enthusiast</p>
 
----
+<hr />
 
-🌟 I'm a passionate **Clinical Data Scientist** with a strong background in **data analysis**, **machine learning**, and **biostatistics**, currently transitioning into healthcare and pharmaceutical data science.
+<h2>🌟 About Me</h2>
+<p>
+I'm a passionate <strong>Clinical Data Scientist</strong> with a strong background in <strong>data analysis</strong>, <strong>machine learning</strong>, and <strong>biostatistics</strong>, currently transitioning into healthcare and pharmaceutical data science.
+</p>
 
----
+<hr />
 
-### 🔭 What I'm Currently Working On
-- 🧪 **Clinical Trial Analytics** – analyzing and modeling patient outcomes from clinical data.
-- 📈 **Healthcare Dashboards** – visualizing patient trends, adverse events, and KPIs using Power BI.
-- 🔍 **Regulatory Analytics** – learning CDISC standards (SDTM, ADaM) and FDA reporting requirements.
-- 🤝 Collaborating on **open source healthcare data science** projects.
+<h2>🔭 What I'm Currently Working On</h2>
+<ul>
+  <li>🧪 <strong>Clinical Trial Analytics</strong> – analyzing and modeling patient outcomes from clinical data.</li>
+  <li>📈 <strong>Healthcare Dashboards</strong> – visualizing patient trends, adverse events, and KPIs using Power BI.</li>
+  <li>🔍 <strong>Regulatory Analytics</strong> – learning CDISC standards (SDTM, ADaM) and FDA reporting requirements.</li>
+  <li>🤝 Collaborating on <strong>open source healthcare data science</strong> projects.</li>
+</ul>
 
----
+<hr />
 
-### 🌱 What I'm Learning
-- 📚 **CDISC Standards** – SDTM, ADaM  
-- 🧠 **Advanced Biostatistics & SAS**  
-- 🧬 **Real-World Data (RWD) & Real-World Evidence (RWE)**  
-- 🏥 **EHR & Clinical NLP** with Python and Spark NLP  
-- ⚙️ **Big Data in Healthcare** – Apache Spark & Hadoop
+<h2>🌱 What I'm Learning</h2>
+<ul>
+  <li>📚 <strong>CDISC Standards</strong> – SDTM, ADaM</li>
+  <li>🧠 <strong>Advanced Biostatistics & SAS</strong></li>
+  <li>🧬 <strong>Real-World Data (RWD) & Real-World Evidence (RWE)</strong></li>
+  <li>🏥 <strong>EHR & Clinical NLP</strong> with Python and Spark NLP</li>
+  <li>⚙️ <strong>Big Data in Healthcare</strong> – Apache Spark & Hadoop</li>
+</ul>
 
----
+<hr />
 
-### 💬 Ask Me About
-- 🐍 Python for Clinical Data Analysis  
-- 💾 SQL for EHR and trial data extraction  
-- 📊 Power BI & Tableau for visual storytelling  
-- 📈 Statistical Modeling (ANOVA, Survival Analysis, Regression)  
-- 🧪 Regulatory Reporting & CDISC compliance  
-- 📦 Data Engineering basics in healthcare settings
+<h2>💬 Ask Me About</h2>
+<ul>
+  <li>🐍 Python for Clinical Data Analysis</li>
+  <li>💾 SQL for EHR and trial data extraction</li>
+  <li>📊 Power BI & Tableau for visual storytelling</li>
+  <li>📈 Statistical Modeling (ANOVA, Survival Analysis, Regression)</li>
+  <li>🧪 Regulatory Reporting & CDISC compliance</li>
+  <li>📦 Data Engineering basics in healthcare settings</li>
+</ul>
 
----
+<hr />
 
-### 🛠 Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+<h2>🛠 Tools & Technologies</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+</p>
 
----
+<hr />
 
-### 📈 Highlight Projects
-- 🔬 **Adverse Events Analysis**: Identified safety signals in clinical trials using Python & biostats.  
-- 📊 **Pharma Sales Dashboard**: Created a KPI dashboard for a pharma company using Power BI.  
-- 🏥 **EHR Insights Project**: Analyzed and visualized patient history using de-identified EHR data.  
-- 🏠 **Airbnb Listings (Legacy)**: SQL analysis of Airbnb dataset for price and location insights.
+<h2>📈 Highlight Projects</h2>
+<ul>
+  <li>🔬 <strong>Adverse Events Analysis</strong>: Identified safety signals in clinical trials using Python & biostats.</li>
+  <li>📊 <strong>Pharma Sales Dashboard</strong>: Created a KPI dashboard for a pharma company using Power BI.</li>
+  <li>🏥 <strong>EHR Insights Project</strong>: Analyzed and visualized patient history using de-identified EHR data.</li>
+  <li>🏠 <strong>Airbnb Listings (Legacy)</strong>: SQL analysis of Airbnb dataset for price and location insights.</li>
+</ul>
 
----
+<hr />
 
-### 📫 Let's Connect!
-- 📧 Email: kedariprachi1504@example.com  
-- 💼 [LinkedIn: Prachi Kedari](https://www.linkedin.com/in/yourprofile)
+<h2>📫 Let's Connect!</h2>
+<ul>
+  <li>📧 Email: kedariprachi1504@example.com</li>
+  <li>💼 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn: Prachi Kedari</a></li>
+</
 
----
-
-### ⚡ Fun Fact
-I love turning raw clinical data into meaningful insights that can **save lives** or improve patient care. When I’m not analyzing data, you’ll find me hiking or exploring nature 🌿.
-
----
-
-⭐ *Thanks for stopping by! Feel free to connect, collaborate, or just say hi!*
 
