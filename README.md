@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Prachi Kedari! 👋</h1>
 
-<p>🎓 Clinical Data Scientist | 💻 Data Analyst | 📊 Biostatistics Enthusiast</p>
+<p>🎓 Clinical Data Scientist | 💻 Clincal Data Analyst | 📊 SAS Programmer</p>
 
 <hr />
 
