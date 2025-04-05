@@ -67,7 +67,7 @@ I'm a passionate <strong>Clinical Data Scientist</strong> with a strong backgrou
 
 <h2>📫 Let's Connect!</h2>
 <ul>
-  <li>📧 Email: kedariprachi1504@example.com</li>
+  <li>📧 Email: <a href="mailto:kedariprachi1504@example.com">kedariprachi1504@example.com</a></li>
   <li>💼 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn: Prachi Kedari</a></li>
 </ul>
 
