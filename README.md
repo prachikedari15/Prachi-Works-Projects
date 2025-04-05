@@ -68,7 +68,7 @@ I'm a passionate <strong>Clinical Data Scientist</strong> with a strong backgrou
 <h2>📫 Let's Connect!</h2>
 <h2>
   🩺 Patients Details Summary Dashboard 
-  <a href="https://your-link-here" target="_blank" style="font-size: 16px; margin-left: 10px;">
+  <a href="https://github.com/prachikedari15/Patients-Details-Summary-Dashboard" target="_blank" style="font-size: 16px; margin-left: 10px;">
     🔗 View Project
   </a>
 </h2>
