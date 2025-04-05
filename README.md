@@ -81,10 +81,12 @@ Designed an interactive dashboard to analyze and visualize patient details, incl
 
 <h2>📫 Let's Connect!</h2>
 <h2>
+  <div style="font-size: 14px;">
   <ul>
   <li>📧 Email: <a href="mailto:kedariprachi1504@example.com">kedariprachi1504@example.com</a></li>
   <li>💼 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn: Prachi Kedari</a></li>
 </ul>
+</div>
 
 </h2>
 
