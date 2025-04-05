@@ -60,7 +60,21 @@ I'm a passionate <strong>Clinical Data Scientist</strong> with a strong backgrou
 
 <h2>📈 Highlight Projects</h2>
 <ul>
-  <li>🔬 <strong>Patients Details Summary Dashboard.</li>
+  <li>🩺 <strong>Patients Details Summary Dashboard.</li>
+     <a href="https://github.com/prachikedari15/Patients-Details-Summary-Dashboard" target="_blank" style="font-size: 16px; margin-left: 10px;">
+    🔗 View Project
+  </a>
+</h2>
+
+<p>
+Designed an interactive dashboard to analyze and visualize patient details, including demographics, clinical metrics, treatment history, and health outcomes — enabling data-driven decision-making in healthcare.
+</p>
+
+<p><strong>🛠 Tools:</strong> Power BI</p>
+
+
+<hr />
+
 </ul>
 
 <hr />
