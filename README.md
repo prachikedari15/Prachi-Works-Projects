@@ -63,6 +63,8 @@ I'm a passionate <strong>Clinical Data Scientist</strong> with a strong backgrou
   <li>🩺 <strong>Patients Details Summary Dashboard.</li>
      <a href="https://github.com/prachikedari15/Patients-Details-Summary-Dashboard" target="_blank" style="font-size: 16px; margin-left: 10px;">
     🔗 View Project
+  <li>>🏥 Healthcare Data Visualization</li>
+      
   </a>
 </h2>
 
