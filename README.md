@@ -60,11 +60,11 @@ I'm a passionate <strong>Clinical Data Scientist</strong> with a strong backgrou
 
 <h2>📈 Highlight Projects</h2>
 <ul>
-  <li>🩺 <strong>Patients Details Summary Dashboard.</li>
-     <a href="https://github.com/prachikedari15/Patients-Details-Summary-Dashboard" target="_blank" style="font-size: 16px; margin-left: 10px;">
-    🔗 View Project   
+  <li>🩺 <strong>Patients Details Summary Dashboard.</strong></li>
+  <a href="https://github.com/prachikedari15/Patients-Details-Summary-Dashboard" target="_blank" style="font-size: 16px; margin-left: 10px;">
+    🔗 View Project
   </a>
-</h2>
+</ul>
 
 <p>
 Designed an interactive dashboard to analyze and visualize patient details, including demographics, clinical metrics, treatment history, and health outcomes — enabling data-driven decision-making in healthcare.
@@ -72,8 +72,23 @@ Designed an interactive dashboard to analyze and visualize patient details, incl
 
 <p><strong>🛠 Tools:</strong> Power BI</p>
 
+<hr />
+
+<ul>
+  <li>📊 <strong>Healthcare Data Analysis with Python.</strong></li>
+  <a href="https://github.com/prachikedari15/Healthcare-Data-Visualization" target="_blank" style="font-size: 16px; margin-left: 10px;">
+    🔗 View Project
+  </a>
+</ul>
+
+<p>
+A healthcare data analysis project using Python (pandas, matplotlib, seaborn) to explore patient demographics, diagnosis trends, hospital visits, and treatment costs through EDA and visualizations.
+</p>
+
+<p><strong>🛠 Tools:</strong> Python, Pandas, Matplotlib, Seaborn</p>
 
 <hr />
+
 
 </ul>
 
