@@ -91,6 +91,23 @@ A healthcare data analysis project using Python (pandas, matplotlib, seaborn) to
 
 
 </ul>
+<ul>
+  <li>📊 <strong>Sports Analytics using SQL.</strong></li>
+  <a href="https://github.com/prachikedari15/Sports-Analytics-using-SQL" target="_blank" style="font-size: 16px; margin-left: 10px;">
+    🔗 View Project
+  </a>
+</ul>
+
+<p>
+Executed comprehensive SQL analysis on IPL match and ball-by-ball data, utilizing complex queries, data cleaning, joins, window functions, and aggregations to derive player and team performance insights.
+</p>
+
+<p><strong>🛠 Tools:</strong> SQL , Excel</p>
+
+<hr />
+
+
+</ul>
 
 <hr />
 
