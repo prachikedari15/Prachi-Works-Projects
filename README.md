@@ -109,7 +109,7 @@ Executed comprehensive SQL analysis on IPL match and ball-by-ball data, utilizin
 
 </ul>
 <ul>
-  <li>🩺 <strong>Nagasakhi Restaurant Dashboard.</strong></li>
+  <li><strong>Nagasakhi Restaurant Dashboard.</strong></li>
   <a href="https://github.com/prachikedari15/Nagasakhi-Restaurants-Dashboard" style="font-size: 16px; margin-left: 10px;">
     🔗 View Project
   </a>
