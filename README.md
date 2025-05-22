@@ -122,7 +122,7 @@ This Power BI project presents a comprehensive analysis of restaurants in Nagasa
 
 <h2>⚡ Fun Fact</h2>
 <p>
-I love turning raw clinical data into meaningful insights that can <strong>save lives</strong> or improve patient care. When I’m not analyzing data, you’ll find me hiking or exploring nature 🌿.
+I love turning raw data into meaningful insights. When I’m not analyzing data, you’ll find me hiking or exploring nature 🌿.
 </p>
 
 <hr />
