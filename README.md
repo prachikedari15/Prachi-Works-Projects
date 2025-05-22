@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Prachi Kedari! 👋</h1>
 
-  <h2>🎓 Data Analyst | 💻 Python & SQL | 📊 Power BI | 📈 Statistics & Data Visualization</h2>
+  <h2>🎓 Data Analyst | 💻 Python & SQL | 📊 Power BI | 📈 Data Visualization</h2>
 
   <h3>🌟 About Me</h3>
   <p>I’m a results-driven <strong>Data Analyst</strong> with a strong foundation in statistical analysis, data wrangling, and dashboard development. With hands-on experience in transforming raw data into meaningful insights, I help businesses make informed, data-backed decisions. I’m passionate about storytelling through data and continuously exploring ways to optimize performance and solve problems using analytics.</p>
