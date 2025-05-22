@@ -108,6 +108,24 @@ Executed comprehensive SQL analysis on IPL match and ball-by-ball data, utilizin
 
 
 </ul>
+<ul>
+  <li>🩺 <strong>Nagasakhi Restaurant Dashboard.</strong></li>
+  <a href="https://github.com/prachikedari15/Nagasakhi-Restaurants-Dashboard" style="font-size: 16px; margin-left: 10px;">
+    🔗 View Project
+  </a>
+</ul>
+
+<p>
+This Power BI project presents a comprehensive analysis of restaurants in Nagasaki, Japan. It provides interactive visualizations and insights into restaurant types, ratings, locations, and performance metrics to help users explore the dining landscape of the region.
+
+
+</p>
+
+<p><strong>🛠 Tools:</strong> Power BI</p>
+
+<hr />
+
+<ul>
 
 <hr />
 
