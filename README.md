@@ -1,62 +1,40 @@
 <h1>Hi there, I'm Prachi Kedari! 👋</h1>
 
-<p>🎓 Clinical Data Scientist | 💻 Clincal Data Analyst | 📊 SAS Programmer</p>
+  <h2>🎓 Data Analyst | 💻 Python & SQL | 📊 Power BI | 📈 Statistics & Data Visualization</h2>
 
-<hr />
+  <h3>🌟 About Me</h3>
+  <p>I’m a results-driven <strong>Data Analyst</strong> with a strong foundation in statistical analysis, data wrangling, and dashboard development. With hands-on experience in transforming raw data into meaningful insights, I help businesses make informed, data-backed decisions. I’m passionate about storytelling through data and continuously exploring ways to optimize performance and solve problems using analytics.</p>
 
-<h2>🌟 About Me</h2>
-<p>
-I'm a passionate <strong>Clinical Data Scientist</strong> with a strong background in <strong>data analysis</strong>, <strong>machine learning</strong>, and <strong>biostatistics</strong>, currently transitioning into healthcare and pharmaceutical data science.
-</p>
+  <h3>🔭 What I'm Currently Working On</h3>
+  <ul>
+    <li>📊 <strong>Interactive Dashboards</strong> – building dynamic reports and visualizations in Power BI.</li>
+    <li>🧮 <strong>Data Cleaning & Preparation</strong> – using Python and SQL to structure and transform large datasets.</li>
+    <li>📈 <strong>Business Performance Analytics</strong> – identifying trends, patterns, and anomalies in KPIs.</li>
+    <li>🔍 <strong>Ad Hoc Reporting</strong> – supporting decision-makers with real-time analytics and custom reports.</li>
+  </ul>
 
-<hr />
+  <h3>🌱 What I'm Learning</h3>
+  <ul>
+    <li>🧠 <strong>Advanced Excel Techniques</strong> – pivot tables, Power Query, and VLOOKUP</li>
+    <li>🐍 <strong>Pandas & NumPy</strong> – for data manipulation and numerical analysis</li>
+    <li>📦 <strong>Data Warehousing Concepts</strong> – ETL pipelines and database management</li>
+    <li>🤖 <strong>Intro to Machine Learning</strong> – regression, classification, and clustering models</li>
+  </ul>
 
-<h2>🔭 What I'm Currently Working On</h2>
-<ul>
-  <li>🧪 <strong>Clinical Trial Analytics</strong> – analyzing and modeling patient outcomes from clinical data.</li>
-  <li>📈 <strong>Healthcare Dashboards</strong> – visualizing patient trends, adverse events, and KPIs using Power BI.</li>
-  <li>🔍 <strong>Regulatory Analytics</strong> – learning CDISC standards (SDTM, ADaM) and FDA reporting requirements.</li>
-  <li>🤝 Collaborating on <strong>open source healthcare data science</strong> projects.</li>
-</ul>
+  <h3>💬 Ask Me About</h3>
+  <ul>
+    <li>🐍 Python for data analysis and automation</li>
+    <li>💾 SQL for database querying and joins</li>
+    <li>📊 Power BI for data storytelling and dashboards</li>
+    <li>📈 Statistics – hypothesis testing, regression, and forecasting</li>
+  </ul>
 
-<hr />
+  <h3>🛠 Tools & Technologies</h3>
+  <p><strong>Languages & Tools:</strong> Python | SQL | Power BI | Excel | Jupyter</p>
+  <p><strong>Libraries:</strong> Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn</p>
+  <p><strong>Databases:</strong> MySQL</p>
+  <p><strong>Others:</strong> Git | Google Sheets | MS Office </p>
 
-<h2>🌱 What I'm Learning</h2>
-<ul>
-  <li>📚 <strong>CDISC Standards</strong> – SDTM, ADaM</li>
-  <li>🧠 <strong>Advanced Biostatistics & SAS</strong></li>
-  <li>🧬 <strong>Real-World Data (RWD) & Real-World Evidence (RWE)</strong></li>
-  <li>🏥 <strong>EHR & Clinical NLP</strong> with Python and Spark NLP</li>
-  <li>⚙️ <strong>Big Data in Healthcare</strong> – Apache Spark & Hadoop</li>
-</ul>
-
-<hr />
-
-<h2>💬 Ask Me About</h2>
-<ul>
-  <li>🐍 Python for Clinical Data Analysis</li>
-  <li>💾 SQL for EHR and trial data extraction</li>
-  <li>📊 Power BI & Tableau for visual storytelling</li>
-  <li>📈 Statistical Modeling (ANOVA, Survival Analysis, Regression)</li>
-  <li>🧪 Regulatory Reporting & CDISC compliance</li>
-  <li>📦 Data Engineering basics in healthcare settings</li>
-</ul>
-
-<hr />
-
-<h2>🛠 Tools & Technologies</h2>
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlin-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine Learning-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
-
-<hr />
 
 <h2>📈 Highlight Projects</h2>
 <ul>
